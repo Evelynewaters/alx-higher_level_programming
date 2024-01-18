@@ -1,4 +1,2 @@
--- It finds all cities from california
-SELECT id,
-name FROM cities
-WHERE state_id = 1 GROUP BY id ASC;
+-- it lists all the cities of California that can be found
+SELECT id, name FROM cities WHERE state_id = 1 ORDER BY id;
