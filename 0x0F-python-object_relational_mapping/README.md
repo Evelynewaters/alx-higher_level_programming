@@ -1,0 +1,1 @@
+This directory contains file solutions to project 0x0F-python-object_relational_mapping
